@@ -1,0 +1,6 @@
+--Check for forigen constraint
+--Check for disable index
+--Delete in batches
+--Rebuild index
+--Update Statistics 
+--CDC IS DIABLED
